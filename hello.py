@@ -9,4 +9,5 @@ if age >=18:
     print("You're an adult! You can vote")
 else:
     print("You're still a kid! Enjoy the freedom")
-    print("GitBash works")
+print("GitBash works")
+print("Branch test works")
